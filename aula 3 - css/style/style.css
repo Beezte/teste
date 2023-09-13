@@ -1,0 +1,62 @@
+.titulo-pagina{
+    color: black;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+.footer-div{
+    background-color: #17202A;
+    width: 1510px;
+    height: 250px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.txt-copy{
+    background-color: #17202A;
+    color: white;
+    font-size: 13px;
+    font-weight: inherit;
+}
+.txt-name{
+    background-color: #17202A;
+    color: #FFC300;
+    font-weight: bold;
+}
+legend{
+    height: auto;
+    font-family: 'Space Mono', monospace;
+    font-weight: normal;
+}
+p{
+    color: #000000;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+fieldset{
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+footer{
+    font-weight: bold;
+    color: #FFC300;
+}
+*{
+    font-family: 'Space Mono', monospace;
+    font-weight: normal;
+    background-color: #FBFCFC;
+}
+.btn-enviar{
+    padding: 5px 8px;
+    border-radius: 5px;
+    background-color: black;
+    color: #ffffff;
+}
+.ipt-datetime{
+    border-radius: 5px;
+}
+.ipt-date{
+    border-radius: 5px;
+}
+.ipt-time{
+    border-radius: 5px;
+}
